@@ -13,10 +13,10 @@ adding the arguments **-port <number>**.
 
 ### Instructions
 
-1. Configure your browser to use the proxy.
+1. Configure your browser to use the proxy
 2. Compile the proxy server by invoking **javac proxyd.java**
 3. Execute the command **java proxyd -port <number>**
-4. Browse the internet like usual (HTTPS requests will not work).
+4. Browse the internet like usual (HTTPS requests will not work)
 
 ## Testing and Bugs
 
@@ -24,9 +24,9 @@ adding the arguments **-port <number>**.
 
 I used Google Chrome to test the proxy and the following websites:
 
-..*[case.edu](https://www.case.edu) (General browsing)
-..*[htmlpurifier.org](http://htmlpurifier.org/demo.php) (GET requests)
-..*[htmlpurifier.org](http://htmlpurifier.org/demo.php?post) (POST requests)
+* [case.edu](https://www.case.edu) (General browsing)
+* [htmlpurifier.org](http://htmlpurifier.org/demo.php) (GET requests)
+* [htmlpurifier.org](http://htmlpurifier.org/demo.php?post) (POST requests)
 
 ### Problems
 
