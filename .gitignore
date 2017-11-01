@@ -3,3 +3,4 @@ bin/
 .classpath
 Project1_Proxy.docx
 src/*.class
+*.docx
